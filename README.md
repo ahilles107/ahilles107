@@ -3,6 +3,6 @@
 [![Linkedin Badge](https://img.shields.io/badge/-pawelmikolajczuk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pawelmikolajczuk/)](https://www.linkedin.com/in/pawelmikolajczuk/) 
 
 ### I'm Paweł
-I work at Spartez / Atlassian | Ex Sourcefabric 
+I work at Atlassian | Ex Sourcefabric 
 
 I'm a software engineer 👨‍💻 who is passionate about mobile technologies (react native) and open source.
